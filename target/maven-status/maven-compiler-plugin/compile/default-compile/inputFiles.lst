@@ -7,3 +7,8 @@
 /Users/sambitkanjilal/vscode/jitter-backoff/src/main/java/com/example/jitterbackoff/domain/CounterEntity.java
 /Users/sambitkanjilal/vscode/jitter-backoff/src/main/java/com/example/jitterbackoff/repository/CounterRepository.java
 /Users/sambitkanjilal/vscode/jitter-backoff/src/main/java/com/example/jitterbackoff/service/CounterService.java
+/Users/sambitkanjilal/vscode/jitter-backoff/src/main/java/com/example/jitterbackoff/simulation/ClientResult.java
+/Users/sambitkanjilal/vscode/jitter-backoff/src/main/java/com/example/jitterbackoff/simulation/ClientTask.java
+/Users/sambitkanjilal/vscode/jitter-backoff/src/main/java/com/example/jitterbackoff/simulation/SimulationConfig.java
+/Users/sambitkanjilal/vscode/jitter-backoff/src/main/java/com/example/jitterbackoff/simulation/SimulationEngine.java
+/Users/sambitkanjilal/vscode/jitter-backoff/src/main/java/com/example/jitterbackoff/simulation/SimulationResult.java
